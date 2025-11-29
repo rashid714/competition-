@@ -82,13 +82,7 @@ export GEMINI_API_KEY="sk-your-key"
 ```
 3. Restart Streamlit or rerun scripts. The sidebar shows real-time health, and Reporter gracefully falls back if Gemini is unavailable or returns an empty response.
 
-## Kaggle submission workflow
-1. Run the commands in **Quick start** to regenerate `submission/submission.csv` and `submission/assets/thumbnail.png`.
-2. Upload `notebooks/kaggle_capstone_notebook.ipynb` to Kaggle Code > New Notebook (set to GPU Off, Internet Off for reproducibility).
-3. In the Kaggle “Data” tab, upload `submission.zip` (contains README, release notes, thumbnail, checksum, and the CSV).
-4. Copy/paste short/long descriptions from `submission/FINAL_SUBMISSION.md`.
-5. Attach `submission/assets/thumbnail.png` as the competition thumbnail.
-6. Submit `submission/submission.csv` in the competition portal.
+
 
 ## Troubleshooting
 - **`ModuleNotFoundError`**: ensure `foodrescue-agent` is on `PYTHONPATH` (the scripts do this automatically) or run commands from repo root after activating the venv.
