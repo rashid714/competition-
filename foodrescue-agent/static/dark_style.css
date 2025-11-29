@@ -1,0 +1,40 @@
+/* Refined dark theme — professional and high-contrast */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+:root{
+  --bg-dark: #071126;
+  --panel-dark: #0f1724;
+  --muted-light: #94a3b8;
+  --primary-light: #60A5FA;
+  --accent-light: #06B6D4;
+  --card-radius: 12px;
+  --shadow-strong: 0 12px 30px rgba(2,6,23,0.6);
+}
+
+html, body, .stApp{ font-family:'Inter', system-ui, -apple-system, 'Segoe UI', Roboto; background:var(--bg-dark) !important; color:#E6F0FF; }
+
+.app-header{ text-align:center; padding:24px 12px 6px; }
+.app-title{ font-size:24px; font-weight:700; margin:0; color:var(--primary-light); }
+.app-subtitle{ color:var(--muted-light); margin-top:6px; font-size:13px; }
+
+.session-badge{ display:inline-block; padding:6px 12px; background:rgba(96,165,250,0.06); color:var(--primary-light); border-radius:999px; font-weight:700; }
+
+.panel{ background:var(--panel-dark); border-radius:var(--card-radius); padding:14px; box-shadow:var(--shadow-strong); }
+
+.stButton>button{ background:linear-gradient(90deg,var(--primary-light),var(--accent-light)); color:#031028; border-radius:10px; padding:8px 12px; font-weight:700; }
+
+input, textarea, select{ background:transparent; color:var(--muted-light); border-radius:8px !important; border:1px solid rgba(255,255,255,0.04) !important; padding:8px !important; }
+
+.metric-card{ background:linear-gradient(180deg,#0d1624,#0b1220); border-radius:10px; padding:12px; box-shadow:0 8px 30px rgba(2,6,23,0.6); }
+.metric-value{ font-size:18px; font-weight:700; color:#E6F0FF; }
+.metric-label{ color:var(--muted-light); font-size:12px; margin-top:6px; }
+
+.donation-card{ background:linear-gradient(180deg,#071227,#091827); border-left:4px solid var(--primary-light); padding:10px; border-radius:8px; }
+
+.footer{ text-align:center; padding:14px 0; color:var(--muted-light); font-size:13px; }
+
+.status-badge{ padding:6px 8px; border-radius:8px; font-weight:700; }
+.status-green{ background:rgba(16,185,129,0.06); color:#10b981; }
+.status-red{ background:rgba(255,90,90,0.06); color:#ff7b7b; }
+
+@media(max-width:768px){ .app-title{ font-size:20px; } }
