@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <text x="40" y="60" font-size="28" font-family="Arial" fill="#0f172a">FoodRescue — Architecture</text>
+
+  <!-- Donors -->
+  <rect x="60" y="120" width="220" height="110" rx="8" fill="#ffffff" stroke="#c7d2fe"/>
+  <text x="80" y="150" font-size="16" font-family="Arial" fill="#0f172a">Donor Sources</text>
+  <text x="80" y="175" font-size="12" font-family="Arial" fill="#334155">Stores, restaurants, bakeries</text>
+
+  <!-- Memory -->
+  <rect x="360" y="120" width="240" height="110" rx="8" fill="#ffffff" stroke="#bbf7d0"/>
+  <text x="380" y="150" font-size="16" font-family="Arial" fill="#0f172a">Memory & Validation</text>
+  <text x="380" y="175" font-size="12" font-family="Arial" fill="#334155">Schema validation, session files</text>
+
+  <!-- Agents -->
+  <rect x="660" y="80" width="420" height="180" rx="8" fill="#ffffff" stroke="#fbcfe8"/>
+  <text x="680" y="110" font-size="16" font-family="Arial" fill="#0f172a">Agent Layer</text>
+  <text x="680" y="135" font-size="12" font-family="Arial" fill="#334155">Summarizer • Allocator • Reporter • GeminiReporter</text>
+
+  <!-- Arrows -->
+  <line x1="280" y1="175" x2="360" y2="175" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="600" y1="175" x2="660" y2="140" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Streamlit UI & Observability -->
+  <rect x="180" y="320" width="360" height="140" rx="8" fill="#ffffff" stroke="#fde68a"/>
+  <text x="200" y="350" font-size="16" font-family="Arial" fill="#0f172a">Streamlit UI & Observability</text>
+  <text x="200" y="375" font-size="12" font-family="Arial" fill="#334155">Dashboard, health checks, metrics flush</text>
+
+  <!-- Automation & Kaggle Submission -->
+  <rect x="580" y="320" width="360" height="140" rx="8" fill="#ffffff" stroke="#bae6fd"/>
+  <text x="600" y="350" font-size="16" font-family="Arial" fill="#0f172a">Automation & Submission</text>
+  <text x="600" y="375" font-size="12" font-family="Arial" fill="#334155">generate_demo_data.py · kaggle_run.py · Kaggle notebook</text>
+  <text x="600" y="395" font-size="12" font-family="Arial" fill="#334155">Outputs: submission.csv · thumbnail.png · release notes</text>
+
+  <line x1="760" y1="260" x2="360" y2="320" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="920" y1="260" x2="760" y2="320" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#0f172a" />
+    </marker>
+  </defs>
+</svg>

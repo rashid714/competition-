@@ -1,0 +1,456 @@
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/google/api_core/_python_version_support.py:266: FutureWarning: You are using a Python version (3.10.16) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+2025-11-27 20:31:43,710 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:31:43,711 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:31:43,711 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:31:43,718 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,720 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,720 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:43,722 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,722 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:43,722 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:31:43,722 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:31:43,722 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:31:43,727 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:31:43,728 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:31:43,728 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:31:43,731 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,733 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,733 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:43,735 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:43,736 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:43,736 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:31:43,736 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:31:43,736 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:31:47,224 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,228 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,228 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:47,232 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,233 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:47,233 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:31:47,233 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:31:47,233 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:31:47,241 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:31:47,245 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:31:47,245 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:31:47,248 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,251 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,251 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:47,253 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:31:47,253 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:31:47,253 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:31:47,253 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:31:47,253 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:40,210 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,214 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,214 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:40,215 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,216 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:40,216 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:40,216 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:40,216 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:40,224 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:33:40,225 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:33:40,225 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:33:40,228 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,230 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,231 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:40,233 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:40,233 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:40,233 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:40,233 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:40,233 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:41,931 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,934 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,935 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:41,937 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,937 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:41,937 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:41,937 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:41,937 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:41,942 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:33:41,943 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:33:41,943 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:33:41,945 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,948 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,948 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:41,950 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:41,950 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:41,950 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:41,950 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:41,951 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:46,896 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,899 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,899 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:46,901 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,901 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:46,901 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:46,901 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:46,901 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:46,906 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:33:46,907 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:33:46,907 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:33:46,909 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,912 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,912 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:46,914 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:46,914 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:46,914 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:46,914 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:46,914 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:48,029 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,032 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,033 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:48,035 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,035 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:48,035 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:48,035 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:48,035 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-27 20:33:48,041 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-27 20:33:48,042 - INFO - Data directory 'session_data' created and verified writable
+2025-11-27 20:33:48,042 - INFO - FoodRescueAgent initialized successfully
+2025-11-27 20:33:48,045 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,047 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,047 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:48,049 - INFO - Retrieved 1 valid donations for session: daily_20251127
+2025-11-27 20:33:48,049 - INFO - Calculated metrics for session daily_20251127: {'total_weight': 50.0, 'total_meals': 75.0, 'store_count': 1, 'donation_count': 1, 'average_weight': 50.0}
+2025-11-27 20:33:48,049 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-27 20:33:48,049 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-27 20:33:48,049 - INFO - Dashboard retrieved successfully for session: daily_20251127
+2025-11-28 18:50:52,227 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,268 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,268 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:52,313 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,313 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:52,313 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:52,313 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:52,313 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:50:52,323 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:50:52,325 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:50:52,326 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:50:52,380 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,419 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,419 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:52,468 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:52,469 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:52,469 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:52,469 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:52,470 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:50:55,468 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,513 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,513 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:55,550 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,550 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:55,550 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:55,550 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:55,550 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:50:55,555 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:50:55,556 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:50:55,556 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:50:55,593 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,631 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,631 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:55,670 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:55,670 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:55,671 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:55,671 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:55,671 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:50:58,127 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,182 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,183 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:58,311 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,312 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:58,312 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:58,312 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:58,312 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:50:58,322 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:50:58,324 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:50:58,324 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:50:58,482 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,588 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,589 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:58,639 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:50:58,639 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:50:58,639 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:50:58,639 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:50:58,640 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:00,711 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:00,770 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:00,771 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:00,881 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:00,881 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:00,881 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:00,881 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:00,881 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:00,893 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:00,895 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:00,895 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:00,974 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,056 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,057 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,120 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,120 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,121 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:01,121 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:01,121 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:01,562 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,603 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,604 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,656 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,657 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,657 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:01,657 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:01,657 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:01,663 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:01,663 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:01,663 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:01,706 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,755 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,760 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,874 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:01,885 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:01,890 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:01,917 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:01,924 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:02,044 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,089 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,089 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:02,148 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,148 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:02,148 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:02,148 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:02,149 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:02,154 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:02,155 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:02,155 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:02,203 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,248 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,248 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:02,289 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:02,289 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:02,289 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:02,290 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:02,290 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:06,442 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,482 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,482 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:06,533 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,533 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:06,533 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:06,533 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:06,533 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:06,587 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,588 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:06,588 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:06,589 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:06,596 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:06,597 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:06,598 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:06,674 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,746 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,747 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:06,869 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:06,870 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:06,870 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:06,870 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:06,870 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:44,164 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,201 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,202 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:44,238 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,238 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:44,238 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:44,238 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:44,239 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:44,246 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:44,247 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:44,247 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:44,283 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,337 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,337 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:44,382 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:44,382 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:44,382 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:44,382 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:44,382 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:47,458 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,496 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,496 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:47,555 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,555 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:47,555 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:47,555 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:47,555 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:47,560 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:47,561 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:47,561 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:47,599 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,637 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,637 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:47,675 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:47,675 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:47,675 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:47,675 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:47,675 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:48,326 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,363 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,363 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:48,400 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,400 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:48,401 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:48,401 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:48,401 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:48,405 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:48,406 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:48,406 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:48,443 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,480 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,481 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:48,520 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:48,520 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:48,520 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:48,520 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:48,520 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:55,949 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:55,985 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:55,986 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,028 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,028 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,028 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:56,028 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:56,028 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:56,033 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:56,034 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:56,034 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:56,072 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,109 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,109 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,147 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,148 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,148 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:56,148 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:56,148 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:56,763 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,810 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,811 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,858 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,859 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,859 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:56,859 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:56,859 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:51:56,863 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:51:56,864 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:51:56,864 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:51:56,904 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,947 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,948 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,991 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:51:56,991 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:51:56,991 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:51:56,991 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:51:56,992 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:52:01,063 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,100 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,100 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,139 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,139 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,140 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:52:01,140 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:52:01,140 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:52:01,144 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:52:01,145 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:52:01,145 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:52:01,180 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,217 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,217 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,254 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,255 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,255 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:52:01,255 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:52:01,255 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:52:01,823 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,868 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,868 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,909 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:01,910 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:01,910 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:52:01,910 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:52:01,910 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:52:01,915 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:52:01,916 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:52:01,916 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:52:01,960 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:02,003 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:02,003 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:02,045 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:52:02,045 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:52:02,046 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:52:02,046 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:52:02,046 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:52:03,634 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:52:03.635 Uncaught app exception
+Traceback (most recent call last):
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/Users/mohammedrashid/Downloads/keggle com/foodrescue-agent/app.py", line 156, in <module>
+    st.session_state['assistant_input'] = ''
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/metrics_util.py", line 410, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/state/session_state_proxy.py", line 113, in __setitem__
+    get_session_state()[key] = value
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/state/safe_session_state.py", line 99, in __setitem__
+    self._state[key] = value
+  File "/Users/mohammedrashid/Downloads/keggle com/.venv310/lib/python3.10/site-packages/streamlit/runtime/state/session_state.py", line 516, in __setitem__
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: `st.session_state.assistant_input` cannot be modified after the widget with key `assistant_input` is instantiated.
+2025-11-28 18:53:13,762 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:13,803 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:13,803 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:13,850 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:13,850 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:13,850 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:53:13,851 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:53:13,851 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:53:13,862 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:53:13,863 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:53:13,863 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:53:13,908 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:13,956 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:13,956 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:14,013 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:14,014 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:14,014 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:53:14,014 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:53:14,014 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:53:15,518 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,564 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,565 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:15,607 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,607 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:15,607 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:53:15,608 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:53:15,608 - INFO - Dashboard retrieved successfully for session: daily_20251128
+2025-11-28 18:53:15,615 - WARNING - GEMINI_API_KEY not found in environment variables
+2025-11-28 18:53:15,616 - INFO - Data directory 'session_data' created and verified writable
+2025-11-28 18:53:15,616 - INFO - FoodRescueAgent initialized successfully
+2025-11-28 18:53:15,659 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,700 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,700 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:15,739 - INFO - Retrieved 20 valid donations for session: daily_20251128
+2025-11-28 18:53:15,740 - INFO - Calculated metrics for session daily_20251128: {'total_weight': 537.0, 'total_meals': 805.5, 'store_count': 4, 'donation_count': 20, 'average_weight': 26.85}
+2025-11-28 18:53:15,740 - WARNING - ensure_model: no GEMINI_API_KEY present
+2025-11-28 18:53:15,740 - WARNING - Using fallback impact report - Gemini not available after ensure_model
+2025-11-28 18:53:15,740 - INFO - Dashboard retrieved successfully for session: daily_20251128
+  Stopping...

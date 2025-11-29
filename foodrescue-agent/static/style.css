@@ -1,0 +1,66 @@
+/* World-class, professional, high-contrast UI (Light Theme) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+:root{
+  --bg: #F6F8FA;
+  --panel: #FFFFFF;
+  --muted: #6B7280;
+  --accent: #0F62FE; /* primary */
+  --accent-2: #06B6D4; /* secondary */
+  --success: #16A34A;
+  --danger: #DC2626;
+  --card-radius: 14px;
+  --glass-shadow: 0 10px 30px rgba(15,23,42,0.06);
+}
+
+html, body, .stApp {
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: var(--bg) !important;
+  color: #0F172A;
+}
+
+.app-header{ text-align:center; padding:28px 12px 8px; }
+.app-title{ font-size:28px; font-weight:800; margin:0; color:var(--accent); }
+.app-subtitle{ color:var(--muted); margin-top:6px; font-size:14px; }
+
+.session-badge{ display:inline-block; padding:6px 14px; background:linear-gradient(90deg, rgba(15,98,254,0.08), rgba(6,182,212,0.06)); color:var(--accent); border-radius:999px; font-weight:700; border:1px solid rgba(15,98,254,0.08); }
+
+/* Layout adjustments */
+.stApp > header { display:none; } /* hide streamlit default header for a cleaner app */
+
+.panel { background:var(--panel); border-radius:var(--card-radius); box-shadow:var(--glass-shadow); padding:18px; }
+
+/* Buttons */
+.stButton>button{ background: linear-gradient(90deg,var(--accent),var(--accent-2)); color:white; border:none; border-radius:10px; padding:10px 16px; font-weight:700; box-shadow:0 8px 20px rgba(11,37,120,0.08); }
+.stButton>button:focus{ outline:none; }
+
+/* Inputs */
+input, textarea, select { border-radius:10px !important; padding:10px !important; border:1px solid #E6EEF8 !important; }
+
+/* Metric cards grid */
+.metrics-grid{ display:flex; gap:12px; margin-top:10px; }
+.metric-card{ background:linear-gradient(180deg, #FFFFFF, #FAFBFF); border-radius:12px; padding:12px 16px; box-shadow:0 6px 18px rgba(10,16,48,0.04); min-width:0; flex:1; }
+.metric-value{ font-size:20px; font-weight:800; color:#0F172A; }
+.metric-label{ font-size:12px; color:var(--muted); margin-top:6px; }
+
+/* Donation card */
+.donation-card{ background:#FFFFFF; border-radius:10px; padding:12px; border-left:4px solid var(--accent); box-shadow:0 6px 18px rgba(11,37,120,0.03); }
+
+/* Chart container */
+.chart-wrapper{ background:transparent; padding:8px 0; }
+
+/* Footer */
+.footer{ text-align:center; padding:18px 0; color:var(--muted); font-size:13px; }
+
+/* Status badges */
+.status-badge{ padding:6px 10px; border-radius:10px; font-weight:700; }
+.status-green{ background:rgba(16,163,127,0.08); color:var(--success); }
+.status-red{ background:rgba(220,38,38,0.06); color:var(--danger); }
+
+@media(max-width:768px){
+  .metrics-grid{ flex-direction:column; }
+  .app-title{ font-size:22px; }
+}
+
+/* Small helper to make chart backgrounds match panels */
+.plotly-panel { background:transparent; }
