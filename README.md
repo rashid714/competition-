@@ -98,5 +98,3 @@ export GEMINI_API_KEY="sk-your-key"
 
 ## License
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-Need refinements (CI pipeline, extra benchmarks, more visual polish)? Open an issue or reach out and I’ll extend the agent to match your competition goals.
